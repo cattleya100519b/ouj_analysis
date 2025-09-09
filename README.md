@@ -1,7 +1,3 @@
-## Book
-
-<img src="https://img21.shop-pro.jp/PA01465/507/product/179495709.jpg?cmsp_timestamp=20240214141800", height=150px>
-
 ## CheckList
 - [ ] 中間（多変数関数）
   - [ ] 01
